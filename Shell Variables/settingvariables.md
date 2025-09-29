@@ -1,0 +1,19 @@
+# Shell Variables
+
+## Setting Variables
+The goal is to set the variable named PWN (all uppercase) to the value COLLEGE (all uppercase).
+
+### Solve
+**Flag:** `pwn.college{gAEvRJvuc9fzpXg4NFTJxiztfrz.QX5UTN0wCO5EzNzEzW}`
+
+```bash
+PWN=COLLEGE
+You've set the PWN variable properly! As promised, here is the flag:
+pwn.college{gAEvRJvuc9fzpXg4NFTJxiztfrz.QX5UTN0wCO5EzNzEzW}
+```
+
+### New Learnings
+Variable assignment: Syntax = `Variable_Name=Value` [No spaces b/w them]
+
+### References 
+
